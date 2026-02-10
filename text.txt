@@ -1,0 +1,8 @@
+com.SkyTowerCorpX.SkyTower
+Sky Tower
+
+alias: tower1
+password: tower1
+alias-password: tower1
+https://www.figma.com/design/IaWzH6972Cfs6000NjAXk5/sky-tower?node-id=0-1&p=f&t=9gzv7GxUbYpscTaC-0
+https://docs.google.com/document/d/1LQI0f6Pd3ap806LfgSV-q2G6eqqmGR1oA-mcTD6-wwY/edit?usp=sharing
